@@ -72,7 +72,7 @@
     .menu-branding.show {
       transform: translate3d(0, 0, 0); }
     .menu-branding .portrait {
-      background: url("img/portrait.png");
+      background: url("../img/portrait.png");
       width: 200px;
       height: 200px;
       background-size: cover;
@@ -103,7 +103,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url("img/background.png");
+    background: url("../img/background.png");
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
